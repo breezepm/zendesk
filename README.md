@@ -18,7 +18,6 @@ To upload and install your private app in your instance of Zendesk Support
 3. Enter a Name for the app.
    This is the name your agents will see.
 4. Click Choose file and select the zip file for your private app.
-
    You can find the zip file on the releases page on Github https://github.com/breezepm/zendesk/releases
 5. Click Save .
 6. In the pop-up box that appears, click Agree and upload this App .

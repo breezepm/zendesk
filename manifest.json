@@ -1,0 +1,17 @@
+{
+  "name": "Breeze",
+  "author": {
+    "name": "Breeze",
+    "email": "team@breeze.pm",
+    "url": "https://www.breeze.pm"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "location": {
+    "support": {
+      "ticket_sidebar": "https://www.breeze.pm/zendesk_tickets"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
